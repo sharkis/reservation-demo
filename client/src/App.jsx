@@ -13,7 +13,7 @@ import _ from 'lodash';
 import './App.css';
 import logo from './assets/lightlogo.png';
 
-const API_URL = 'URL
+const API_URL = 'URL';
 const BOOK_URL = 'URL';
 
 function App() {
